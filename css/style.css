@@ -77,9 +77,9 @@ header{
 
 footer {
 	margin-top: 100px;
-	padding: 100px;
+	padding: 70px;
 	background-color: #323232;
-	color: #fff;
+	color: #898989;
 	text-decoration: none;
 }
 
@@ -93,7 +93,7 @@ footer img {
 
 footer a {
 	text-decoration: none;
-	color: #fff;
+	color: #898989;
 }
 	
 	
